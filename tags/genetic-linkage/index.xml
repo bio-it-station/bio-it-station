@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genetic Linkage on </title>
+    <link>/tags/genetic-linkage/</link>
+    <description>Recent content in Genetic Linkage on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Jun 2004 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/genetic-linkage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An evolutionary approach for gene expression patterns.</title>
+      <link>/publication/tsai-2004/</link>
+      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tsai-2004/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

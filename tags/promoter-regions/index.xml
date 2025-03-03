@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Promoter Regions on </title>
+    <link>/tags/promoter-regions/</link>
+    <description>Recent content in Promoter Regions on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/promoter-regions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The CrdRS two-component system in Helicobacter pylori responds to nitrosative stress.</title>
+      <link>/publication/hung-2015/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hung-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of the association between transcription factor binding site variants and distinct accompanying regulatory motifs in yeast.</title>
+      <link>/publication/chiang-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/chiang-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-expression of neighboring genes in the zebrafish (Danio rerio) genome.</title>
+      <link>/publication/tsai-2009/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tsai-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-expression of adjacent genes in yeast cannot be simply attributed to shared regulatory system.</title>
+      <link>/publication/tsai-2007/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tsai-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

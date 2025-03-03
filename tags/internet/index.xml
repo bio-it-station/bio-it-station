@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet on </title>
+    <link>/tags/internet/</link>
+    <description>Recent content in Internet on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 01 Jul 2007 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MYBS: a comprehensive web server for mining transcription factor binding sites in yeast.</title>
+      <link>/publication/tsai-2007-a/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tsai-2007-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
